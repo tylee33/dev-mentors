@@ -1,2 +1,2 @@
 # dev-mentors
-developer mentor for innovation academy students
+Developer mentors in Innovation Academy
