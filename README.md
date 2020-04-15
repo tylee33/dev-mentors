@@ -1,4 +1,6 @@
 # 이노베이션 아카데미 Dev. 멘토단
+<img src="images/devmentor_banner.jpg" width="70%" title="Dev. Mentor" alt="Innovation Academy Developer Mentors"></img>
+<br><br>
 이노베이션 아카데미를 안팎에서 도와주시는 "현업 개발자 멘토단"입니다. <br>
 코드레벨의 코치부터 기업협력 프로젝트까지 다양한 개발자육성 프로그램에 참여해 주십니다. <br>
 궁금하고 어려운 것이 있다면, 각 멘토분들을 찾아주세요. (자세한 내용은 별도 정리중)<br>
