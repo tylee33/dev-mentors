@@ -388,9 +388,9 @@
 - 소플 소프트웨어 엔지니어 (Android, React, ReactNative 프리랜서 개발)
 
 
-## 이태영
+## Mark Young
 자기소개
-- 서로 소통하며 지내요.
+- 커뮤니티 활동을 사랑하며 배움을 나누고 소통하며 사는 것을 즐기는 자
 - 페이스북 : http://www.facebook.com/tylee8033
 
 주요분야
@@ -401,12 +401,20 @@
 대외활동
 - AI ROBOTICS KOREA 운영진
 - KERAS KOREA 운영진
+- Deep Learing For Financial Data 운영자
+- 양재R&CD혁신허브 AI SCHOOL (강사 및 조교)
+- SK T Academy 강사 (딥러닝을 위한 Tensorflow)
+- SK Planet 딥러닝 강사
+- 제11회 공개소프트웨어 개발자 대회 금상
 
 주요경력 : 2005~ (15년차)
-- 신한은행 Chief Research Engineer 
-  (쏠 메이트 챗봇, 쏠 리치, 오픈뱅킹 목돈마련, OCR VISION PLATFORM)
+- 금융권 Chief Research Engineer 
+  (금융권 챗봇, 금융권 로보어드바이저, 오픈뱅킹 목돈마련, 금융권 딥러닝 프레임워크 구축)
 - POSCO ICT - Chief Architect <br>
-   딥러닝 프레임워크 제작 (TensorMSA), 포스코 사람찾기 챗봇, 포스코 108개 해외법인 그룹웨어 구축<br>
-   모바일 프레임워크 구축, Smart Work Place 포스코 전사 시스템 구축<br>
+   딥러닝 프레임워크 제작 (TensorMSA)
+   포스코 사람찾기 챗봇
+   포스코 108개 해외법인 그룹웨어 구축
+   모바일 프레임워크 구축
+   Smart Work Place 포스코 전사 시스템 구축
 - 삼성전자,LG전자 안드로이드 폰 개발
 - 국민은행 KB STAR BANK ANDROID APP제작
