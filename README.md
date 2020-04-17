@@ -401,20 +401,25 @@
 대외활동
 - AI ROBOTICS KOREA 운영진
 - KERAS KOREA 운영진
-- Deep Learing For Financial Data 운영자
+- Deep Learning For Financial Data 운영자
 - 양재R&CD혁신허브 AI SCHOOL (강사 및 조교)
 - SK T Academy 강사 (딥러닝을 위한 Tensorflow)
 - SK Planet 딥러닝 강사
 - 제11회 공개소프트웨어 개발자 대회 금상
 
-주요경력 : 2005~ (15년차)
+주요경력 : 2002~ (18년차)
 - 금융권 Chief Research Engineer 
   (금융권 챗봇, 금융권 로보어드바이저, 오픈뱅킹 목돈마련, 금융권 딥러닝 프레임워크 구축)
 - POSCO ICT - Chief Architect <br>
-   딥러닝 프레임워크 제작 (TensorMSA)
-   포스코 사람찾기 챗봇
-   포스코 108개 해외법인 그룹웨어 구축
-   모바일 프레임워크 구축
+   딥러닝 프레임워크 제작 (TensorMSA) <br>
+   포스코 사람찾기 챗봇 <br>
+   포스코 108개 해외법인 그룹웨어 구축 <br>
+   모바일 프레임워크 구축 <br>
    Smart Work Place 포스코 전사 시스템 구축
-- 삼성전자,LG전자 안드로이드 폰 개발
+- 삼성전자 갤럭시 메시징 솔루션 제작
+- LG전자 옵티머스 계열 안드로이드 폰 내장 어플 개발
 - 국민은행 KB STAR BANK ANDROID APP제작
+- 삼성SDS(전 서울통신기술) 기지국 장비 HGW 개발
+- 삼성전자 지상파 DMB폰 B-2300 개발
+- LGT KTX 고속철도 망 테스트 수행
+- SKT EVDO, KVM, SKVM 신규 폰 VM 환경 테스트 수행
