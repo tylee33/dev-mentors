@@ -842,7 +842,7 @@
 
 주요경력 : 2002~ (18년차)
 - 금융권 Chief Research Engineer 
-  (금융권 챗봇, 금융권 로보어드바이저, 오픈뱅킹 목돈마련, 금융권 딥러닝 프레임워크 구축)
+  (금융권 챗봇, 금융권 로보어드바이저, 오픈뱅킹 목돈마련, 금융권 딥러닝 프레임워크 구축, AI OCR Vision Platform 구축)
 - POSCO ICT - Chief Architect <br>
    딥러닝 프레임워크 제작 (TensorMSA) <br>
    포스코 사람찾기 챗봇 <br>
